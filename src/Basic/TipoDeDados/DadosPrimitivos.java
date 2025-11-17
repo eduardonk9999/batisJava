@@ -14,5 +14,11 @@ public class DadosPrimitivos {
          * Long: Números inteiros maiores que um int
          * */
 
+        int idade = 16;
+        double altura = 1.65;
+        char inicial = 'N';
+        String nome = "Naruto";
+        boolean vivoouMorto = true;
+        Long saldoBancario = 999999L; // Valor Maximo
     }
 }
